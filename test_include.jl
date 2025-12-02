@@ -1,0 +1,7 @@
+include("Include.jl")
+println("✓ Successfully loaded Include.jl!")
+println("MyClassicalHopfieldNetworkModel type: $(MyClassicalHopfieldNetworkModel)")
+println("build function: $(build)")
+println("recover function: $(recover)")
+println("hamming function: $(hamming)")
+println("decode function: $(decode)")
